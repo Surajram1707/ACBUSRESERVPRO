@@ -1,4 +1,7 @@
 # ACBUSRESEVPRO
+
+This app was developed by our team App Alpha Clan 
+Our team mates are Shruthakeerthy,Surajram and Swatika
 ABSTRACT:  
  The main   aim behind the mini project is to allot seats in the ac bus of SVCE.
 This is an impartial way of allocation of seats based on first come first serve criteria.
