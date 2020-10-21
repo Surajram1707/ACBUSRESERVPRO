@@ -1,7 +1,7 @@
 # ACBUSRESEVPRO
 
 This app was developed by our team App Alpha Clan 
-Our team mates are Shruthakeerthy,Surajram and Swatika.
+Our team mates are Shruthakeerthy.S,Surajram.S and Swatika Ayyappan.
 
 
 ABSTRACT:  
